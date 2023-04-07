@@ -1,6 +1,6 @@
 <?php
 
-namespace RocketLauncherActionScheduler\Queue;
+namespace LaunchpadActionScheduler\Queue;
 
 use ActionScheduler_Store;
 use Exception;

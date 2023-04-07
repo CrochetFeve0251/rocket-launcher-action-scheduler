@@ -1,6 +1,6 @@
 <?php
 
-namespace RocketLauncherActionScheduler\Queue;
+namespace LaunchpadActionScheduler\Queue;
 
 
 interface QueueInterface {

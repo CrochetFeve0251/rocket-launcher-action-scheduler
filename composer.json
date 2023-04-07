@@ -1,7 +1,7 @@
 
 {
-  "name": "crochetfeve0251/rocket-launcher-action-scheduler",
-  "description": "Initialisation library for psr4 plugin",
+  "name": "wp-launchpad/action-scheduler",
+  "description": "Action Scheduler library for Launchpad framework",
   "minimum-stability": "stable",
   "license": "proprietary",
   "type": "library",
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "RocketLauncherActionScheduler\\": "inc/"
+      "LaunchpadActionScheduler\\": "inc/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "RocketLauncherActionScheduler\\Tests\\": "tests/"
+      "LaunchpadActionScheduler\\Tests\\": "tests/"
     }
   }
 }

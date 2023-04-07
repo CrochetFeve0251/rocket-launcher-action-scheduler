@@ -1,6 +1,6 @@
 <?php
 
-namespace RocketLauncherActionScheduler\Queue;
+namespace LaunchpadActionScheduler\Queue;
 
 use ActionScheduler_Abstract_QueueRunner;
 use ActionScheduler_AsyncRequest_QueueRunner;
