@@ -1,6 +1,6 @@
-# rocket-launcher-action-scheduler
+# action-scheduler
 
-Rocket Launcher library for Action Scheduler.
+Launchpad library for Action Scheduler.
 
 ## Install 
-To install run the folowing command : `composer require crochetfeve0251/rocket-launcher-action-scheduler-take-off --dev`
+To install run the folowing command : `composer require wp-launchpad/action-scheduler-take-off --dev`
